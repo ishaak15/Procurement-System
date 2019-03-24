@@ -8,6 +8,7 @@ MODULES USED:
 1.	Tkinter
 2.	Sqlite3
 3.	tkMessageBox
+
 Working:
 The Project has basically has 3 components. 
 1.	Administrator: The Master component dealing with the order placing, login ID maintenance, and maintaining an inventory of the incoming stock.
