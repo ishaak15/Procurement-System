@@ -1,5 +1,5 @@
 # Procurement-System
-his project is based on the concept of Demand and Supply and is named Procurement System as it basically works for industrial factories and Assembly Plants where a raw material is ‘Procured’ from other places and industries and is then used for further producing objects like cars, buses, etc… The concept is equally applicable for e-commerce purposes where the user may place an order and then it is verified by the platforms( Flipkart, Amazon, etc)  and then forwarded to their respective suppliers.
+This project is based on the concept of Demand and Supply and is named Procurement System as it basically works for industrial factories and Assembly Plants where a raw material is ‘Procured’ from other places and industries and is then used for further producing objects like cars, buses, etc… The concept is equally applicable for e-commerce purposes where the user may place an order and then it is verified by the platforms( Flipkart, Amazon, etc)  and then forwarded to their respective suppliers.
 
 SUPPORT:
 This project was built in python 2.7.14 on a windows 10 OS.
